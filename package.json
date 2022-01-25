@@ -1,0 +1,24 @@
+{
+  "name": "stanled-mono",
+  "version": "1.0.0",
+  "description": "Content sharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xStanlee/stanled-mono.git"
+  },
+  "keywords": [
+    "LED",
+    "Video",
+    "Share"
+  ],
+  "author": "P.S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xStanlee/stanled-mono/issues"
+  },
+  "homepage": "https://github.com/xStanlee/stanled-mono#readme"
+}
