@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/xStanlee/stanled-mono/issues"
   },
-  "homepage": "https://github.com/xStanlee/stanled-mono#readme"
+  "homepage": "https://github.com/xStanlee/stanled-mono#readme",
+  "dependencies": {
+    "firebase": "^9.6.4"
+  }
 }
