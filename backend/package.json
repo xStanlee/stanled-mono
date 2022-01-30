@@ -4,11 +4,15 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "sass": "node-sass -w stanled-frontend/styles/main.scss -o stanled-frontend/styles --output-style compressed"
   },
   "dependencies": {
     "cors": "^2.8.5",
     "esm": "^3.2.25",
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1"
   }
 }

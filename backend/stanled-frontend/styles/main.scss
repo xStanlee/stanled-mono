@@ -1,0 +1,12 @@
+@import 'variables/variables.scss';
+
+
+.Stanled {
+    &__video {
+        background-color: $color-primary;
+        color: $color-tertiary;
+        font-size: $font-size-small;
+        line-height: 20px;
+        font-weight: 400;
+    }
+}
